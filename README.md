@@ -1,4 +1,4 @@
-made with chatgpt by Alexander (hubby) Scott Masters
+by Alexander (hubby) Scott Masters
 love you mum
 
 Here is the workflow as I now understand it:
