@@ -1,5 +1,5 @@
 by Alexander (hubby) Scott Masters
-love you mum I'm getting married
+love you mum
 
 Here is the workflow as I now understand it:
 1. Large M3U Archive — complete search results and pulled using archive.org scraper api
