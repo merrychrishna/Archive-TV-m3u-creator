@@ -1,4 +1,4 @@
-made with chatgpt by Dan.Masters.827 on FB
+made with chatgpt by Don Masters
 
 Here is the workflow as I now understand it:
 1. Large M3U Archive — complete search results and pulled using archive.org scraper api
