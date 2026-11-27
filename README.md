@@ -81,6 +81,46 @@ Select which commercial collections or profiles to merge into each channel.
 
 
 
+
+
+
+
+
+
+----------------------------------------------------------------
+
+Intended Archive TV process
+The manager will use the following workflow:
+
+1. Import full Archive.org source M3Us
+- Import complete search results into individual source M3U files.
+- Keep Programme and Commercial sources separately organized.
+- Preserve the complete imported source contents.
+2. Create a Programme or Commercial collection
+- Create a named collection for grouping related source M3Us.
+- Each collection belongs to either Programme or Commercial.
+3. Select source M3Us for the collection
+- Display the imported source M3Us available for that type.
+- Select exactly which sources belong in the collection.
+- Allow individual selection, Select All and Clear All.
+- Imported sources not selected remain available for other collections.
+- A source can be used in more than one collection.
+4. Create a profile from one or more collections
+- Select one or multiple collections to combine into a profile.
+- Support Programme profiles, Commercial profiles and permitted combinations.
+- Apply language, genre, decade and other filtering settings to the profile.
+- Allow collections to be included or excluded individually.
+5. Publish the resulting Master Library
+- Build the Master Library from the collections selected through the profile.
+- Publish Programme and Commercial Master Libraries separately, or publish a combined Master Library where appropriate.
+- Do not automatically include every imported source or every existing collection.
+- Only content from the selected collections should contribute to the resulting library.
+Important distinction
+Imported source M3Us → Collections → Profiles → Master Libraries
+
+Each stage is selective. Importing a source does not automatically add it to a collection, and creating a collection does not automatically add it to a profile or Master Library.
+
+This allows you to import a large number of complete source M3Us, organize them into different collections, and combine only the collections you actually want in each published Master Library.
 One more design decision
 Should commercials also have their own profiles, just like programmes?
 
